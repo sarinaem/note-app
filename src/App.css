@@ -71,6 +71,7 @@
 
 .note-item.completed .title {
   text-decoration: line-through;
+  opacity: 50%;
 }
 
 .note-item.completed {
